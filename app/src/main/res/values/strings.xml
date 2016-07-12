@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nested ScrollViews</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur
+        ante nec nunc sodales euismod. In sed pellentesque justo. Suspendisse eget lacus quis nunc congue consequat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur pellentesque id orci sit amet iaculis. Proin nec lorem massa. Suspendisse sodales suscipit nulla. Morbi eu purus sollicitudin, elementum eros sed, posuere leo. Cras condimentum quam ante, id ullamcorper dolor varius eget. Etiam facilisis erat vitae felis lacinia mollis.</string>
+</resources>
